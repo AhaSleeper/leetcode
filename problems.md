@@ -19,8 +19,6 @@ https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
 https://leetcode-cn.com/problems/rotate-array/
 https://leetcode-cn.com/problems/merge-two-sorted-lists/
 https://leetcode-cn.com/problems/merge-sorted-array/
-https://leetcode-cn.com/problems/two-sum/
-https://leetcode-cn.com/problems/move-zeroes/
 https://leetcode-cn.com/problems/plus-one/
 
 二、栈、队列（6）
@@ -28,7 +26,7 @@ https://leetcode-cn.com/problems/plus-one/
 预习题目
 •	https://leetcode-cn.com/problems/valid-parentheses/
 •	https://leetcode-cn.com/problems/min-stack/
- 
+
 •	https://leetcode-cn.com/problems/largest-rectangle-in-histogram
 •	https://leetcode-cn.com/problems/sliding-window-maximum
 
@@ -53,7 +51,7 @@ https://leetcode-cn.com/problems/plus-one/
 
 五、递归（12）
 
- 
+
 •	https://leetcode-cn.com/problems/climbing-stairs/
 •	https://leetcode-cn.com/problems/generate-parentheses/
 •	https://leetcode-cn.com/problems/invert-binary-tree/description/
@@ -63,7 +61,7 @@ https://leetcode-cn.com/problems/plus-one/
 •	https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
 每日一课
 •	如何优雅地计算斐波那契数列
- 
+
 •	https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
 •	https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
 •	https://leetcode-cn.com/problems/combinations/
@@ -86,12 +84,12 @@ https://leetcode-cn.com/problems/plus-one/
 
 七、深度优先、广度优先（8）
 
- 
+
 •	https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description
 •	https://leetcode-cn.com/problems/minimum-genetic-mutation/#/description
 •	https://leetcode-cn.com/problems/generate-parentheses/#/description
 •	https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/#/description
- 
+
 •	https://leetcode-cn.com/problems/word-ladder/description/
 •	https://leetcode-cn.com/problems/word-ladder-ii/description/
 •	https://leetcode-cn.com/problems/number-of-islands/
@@ -102,7 +100,7 @@ https://leetcode-cn.com/problems/plus-one/
 参考链接
 •	coin change 题目
 •	动态规划定义
- 
+
 •	https://leetcode-cn.com/problems/lemonade-change/description/
 •	https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 •	https://leetcode-cn.com/problems/assign-cookies/description/
@@ -114,10 +112,10 @@ https://leetcode-cn.com/problems/plus-one/
 参考链接
 •	二分查找代码模板
 •	Fast InvSqrt() 扩展阅读
- 
+
 •	https://leetcode-cn.com/problems/sqrtx/
 •	https://leetcode-cn.com/problems/valid-perfect-square/
- 
+
 •	https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
 •	https://leetcode-cn.com/problems/search-a-2d-matrix/
 •	https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
