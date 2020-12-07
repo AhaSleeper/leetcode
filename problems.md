@@ -2,21 +2,20 @@
 
 一、数组（11）
 
-两数之和题目： https://leetcode-cn.com/problems/two-sum/
-1
+两数之和题目： https://leetcode-cn.com/problems/two-sum/  acc 
 Array  
-https://leetcode-cn.com/problems/container-with-most-water/
-https://leetcode-cn.com/problems/move-zeroes/
-https://leetcode.com/problems/climbing-stairs/
-https://leetcode-cn.com/problems/3sum/ 
+https://leetcode-cn.com/problems/container-with-most-water/ acc
+https://leetcode-cn.com/problems/move-zeroes/ acc
+https://leetcode.com/problems/climbing-stairs/ acc
+https://leetcode-cn.com/problems/3sum/ acc
 Linked List  
-https://leetcode.com/problems/reverse-linked-list/
-https://leetcode.com/problems/swap-nodes-in-pairs
-https://leetcode.com/problems/linked-list-cycle
-https://leetcode.com/problems/linked-list-cycle-ii
-https://leetcode.com/problems/reverse-nodes-in-k-group/
+https://leetcode.com/problems/reverse-linked-list/ acc
+https://leetcode.com/problems/swap-nodes-in-pairs acc
+https://leetcode.com/problems/linked-list-cycle acc
+https://leetcode.com/problems/linked-list-cycle-ii acc 
+https://leetcode.com/problems/reverse-nodes-in-k-group/ acc
 
-https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ acc
 https://leetcode-cn.com/problems/rotate-array/
 https://leetcode-cn.com/problems/merge-two-sorted-lists/
 https://leetcode-cn.com/problems/merge-sorted-array/
