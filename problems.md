@@ -16,8 +16,8 @@ https://leetcode.com/problems/linked-list-cycle-ii acc
 https://leetcode.com/problems/reverse-nodes-in-k-group/ acc
 
 https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ acc
-https://leetcode-cn.com/problems/rotate-array/
-https://leetcode-cn.com/problems/merge-two-sorted-lists/
+https://leetcode-cn.com/problems/rotate-array/ acc
+https://leetcode-cn.com/problems/merge-two-sorted-lists/ acc 
 https://leetcode-cn.com/problems/merge-sorted-array/
 https://leetcode-cn.com/problems/plus-one/
 
