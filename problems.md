@@ -18,7 +18,7 @@ https://leetcode.com/problems/reverse-nodes-in-k-group/ acc
 https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ acc
 https://leetcode-cn.com/problems/rotate-array/ acc
 https://leetcode-cn.com/problems/merge-two-sorted-lists/ acc 
-https://leetcode-cn.com/problems/merge-sorted-array/
+https://leetcode-cn.com/problems/merge-sorted-array/ acc
 https://leetcode-cn.com/problems/plus-one/
 
 二、栈、队列（6）
