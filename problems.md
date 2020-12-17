@@ -19,38 +19,37 @@ https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ acc
 https://leetcode-cn.com/problems/rotate-array/ acc
 https://leetcode-cn.com/problems/merge-two-sorted-lists/ acc 
 https://leetcode-cn.com/problems/merge-sorted-array/ acc
-https://leetcode-cn.com/problems/plus-one/
+https://leetcode-cn.com/problems/plus-one/ acc
 
 二、栈、队列（6）
 
 预习题目
-•	https://leetcode-cn.com/problems/valid-parentheses/
-•	https://leetcode-cn.com/problems/min-stack/
+•	https://leetcode-cn.com/problems/valid-parentheses/  acc
+•	https://leetcode-cn.com/problems/min-stack/ acc
 
-•	https://leetcode-cn.com/problems/largest-rectangle-in-histogram
-•	https://leetcode-cn.com/problems/sliding-window-maximum
+•	https://leetcode-cn.com/problems/largest-rectangle-in-histogram acc
+•	https://leetcode-cn.com/problems/sliding-window-maximum acc
 
 •	用 add first 或 add last 这套新的 API 改写 Deque 的代码
 •	分析 Queue 和 Priority Queue 的源码
 •	https://leetcode.com/problems/design-circular-deque
-•	https://leetcode.com/problems/trapping-rain-water/
+•	https://leetcode.com/problems/trapping-rain-water/ acc
 
 三、哈希表（3）
 
-•	https://leetcode-cn.com/problems/valid-anagram/description/
-•	https://leetcode-cn.com/problems/group-anagrams/
-•	https://leetcode-cn.com/problems/two-sum/description/
+•	https://leetcode-cn.com/problems/valid-anagram/description/ acc
+•	https://leetcode-cn.com/problems/group-anagrams/ acc
+•	https://leetcode-cn.com/problems/two-sum/description/ acc 
 
 四、树、二叉树（5）
 
-- https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
-- https://leetcode-cn.com/problems/binary-tree-preorder-traversal/
-- https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
-- [https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description)
-- https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/
+- https://leetcode-cn.com/problems/binary-tree-inorder-traversal/ acc 
+- https://leetcode-cn.com/problems/binary-tree-preorder-traversal/ acc
+- https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/ acc
+- [https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/description) acc
+- https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/ acc
 
 五、递归（12）
-
 
 •	https://leetcode-cn.com/problems/climbing-stairs/
 •	https://leetcode-cn.com/problems/generate-parentheses/
@@ -227,7 +226,7 @@ https://leetcode-cn.com/problems/plus-one/
 
 十三、红黑树和AVL树
 
-十四、位运算
+十四、位运算（6）
 
 ## 参考链接
 
@@ -363,5 +362,5 @@ https://leetcode-cn.com/problems/plus-one/
 - https://leetcode-cn.com/problems/longest-valid-parentheses
 - https://leetcode-cn.com/problems/distinct-subsequences/
 
- 
+ total 173
 
