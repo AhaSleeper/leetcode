@@ -57,27 +57,26 @@ https://leetcode-cn.com/problems/plus-one/ acc
 •	https://leetcode-cn.com/problems/validate-binary-search-tree acc
 •	https://leetcode-cn.com/problems/maximum-depth-of-binary-tree acc
 •	https://leetcode-cn.com/problems/minimum-depth-of-binary-tree acc
-•	https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
+•	https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/ acc
 每日一课
 •	如何优雅地计算斐波那契数列
 
-•	https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/
-•	https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
-•	https://leetcode-cn.com/problems/combinations/
-•	https://leetcode-cn.com/problems/permutations/
-•	https://leetcode-cn.com/problems/permutations-ii/
+•	https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/ acc 
+•	https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal acc
+•	https://leetcode-cn.com/problems/combinations/ acc
+•	https://leetcode-cn.com/problems/permutations/ acc
+•	https://leetcode-cn.com/problems/permutations-ii/ acc
 
 六、分治、回溯（5）
 
 预习题目
-•	https://leetcode-cn.com/problems/powx-n/
-•	https://leetcode-cn.com/problems/subsets/
+•	https://leetcode-cn.com/problems/powx-n/ acc 
+•	https://leetcode-cn.com/problems/subsets/ acc
 参考链接
 •	牛顿迭代法原理
 •	牛顿迭代法代码
 
-
-•	https://leetcode-cn.com/problems/majority-element/description/ （简单、但是高频）
+•	https://leetcode-cn.com/problems/majority-element/description/ acc（简单、但是高频）
 •	https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
 •	https://leetcode-cn.com/problems/n-queens/
 
@@ -104,7 +103,9 @@ https://leetcode-cn.com/problems/plus-one/ acc
 •	https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 •	https://leetcode-cn.com/problems/assign-cookies/description/
 •	https://leetcode-cn.com/problems/walking-robot-simulation/description/
-•	https://leetcode-cn.com/problems/jump-game/ 、 https://leetcode-cn.com/problems/jump-game-ii/
+•	https://leetcode-cn.com/problems/jump-game/ 
+
+ https://leetcode-cn.com/problems/jump-game-ii/
 
 九、二分查找（5）
 
